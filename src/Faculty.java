@@ -7,5 +7,5 @@ public class Faculty {
     public void setName(String aName) { name = aName; }
     
     @Override
-    public String toString() { return name; }   
+    public String toString() { return name; }
 }
